@@ -14,3 +14,16 @@ Memory requirements:
 ### Easy way of testing local LLMs
 
 Get the [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) tool. It accepts names of custom repos on Huggingface, and downloads them by itself.
+
+
+## Code support
+
+Main question: How do I pass the whole repository as context?
+
+
+## Testing support
+
+## Documentation support
+
+
+## Help in unfamiliar languages
