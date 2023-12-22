@@ -18,7 +18,10 @@ Get the [Text Generation WebUI](https://github.com/oobabooga/text-generation-web
 
 ## Code support
 
+Tools: https://continue.dev. Connects any LLM to VS Code or PyCharm.
+
 Main question: How do I pass the whole repository as context?
+
 
 
 ## Testing support
